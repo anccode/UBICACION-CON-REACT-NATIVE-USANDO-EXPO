@@ -1,7 +1,0 @@
-installaciones
-
-npm install @react-navigation/material-top-tabs react-native-tab-view react-native-pager-view
-
-npm install @react-navigation/native
-
-npm install react-native-elements
